@@ -8,7 +8,9 @@
 
 En el archivo facilitado al alumno "la primera página Web con imagen",emplear estilos CSS para cambiar el color del fondo de la página, el color de lafuente, la familia tipográfica y el tamaño.
 
-# EJERCICIO 1.2.2. LRealiza un esquema sencillo de este documento HTML a su estructura tipoárbol, que resuma brevemente las relaciones directas entre elementos de lapágina, clarificando la jerarquía del árbol.
+# EJERCICIO 1.2.2. 
+
+Realiza un esquema sencillo de este documento HTML a su estructura tipoárbol, que resuma brevemente las relaciones directas entre elementos de lapágina, clarificando la jerarquía del árbol.
 
 # EJERCICIO 1.2.3 OBLIGATORIO
 
